@@ -52,7 +52,7 @@ coderower/
 2. Set up your `.env` file with MongoDB URI and other configs.
 3. Start the server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Frontend
